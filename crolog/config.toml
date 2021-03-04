@@ -1,5 +1,5 @@
 baseURL = "https://crolog.netlify.app"
-title = "Blonde"
+title = "crolog"
 author = "wamo"
 languageCode = "en"
 DefaultContentLanguage = "en"
