@@ -1,6 +1,6 @@
 baseURL = "https://crolog.netlify.app"
 title = "crolog"
-author = "wamo"
+author = "croro"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
