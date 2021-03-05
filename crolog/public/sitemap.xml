@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://crolog.netlify.app/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://crolog.netlify.app/post/image-test/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/post/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/tags/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/tags/themes/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/post/test/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/post/image-test/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/archives/</loc>
@@ -71,6 +74,8 @@
     <loc>https://crolog.netlify.app/archives/2019/03/</loc>
   </url><url>
     <loc>https://crolog.netlify.app/archives/2020/08/</loc>
+  </url><url>
+    <loc>https://crolog.netlify.app/archives/2021/03/</loc>
   </url><url>
     <loc>https://crolog.netlify.app/archives/</loc>
   </url><url>
