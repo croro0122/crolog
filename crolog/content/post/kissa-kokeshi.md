@@ -5,7 +5,7 @@ image: "img/kokeshi/inside.JPG"
 draft: false
 date: 2021-03-05
 description: "description for 喫茶居桂詩"
-tags: ["themes"]
+tags: ["世田谷","東京都"]
 archives: ["2021/03"]
 ---
 
