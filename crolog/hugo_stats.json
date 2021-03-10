@@ -16,6 +16,8 @@
       "div",
       "ellipse",
       "em",
+      "figcaption",
+      "figure",
       "footer",
       "form",
       "g",
