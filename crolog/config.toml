@@ -23,6 +23,30 @@ paginator_pages = "5"
 # Enable this if you want the archive list to be in a drop-down format.
 archive_dropdown = "false"
 
+# Number of tags to be displayed.
+tagsLimit = 20
+
+  [params.post]
+    # See the Tailwind CSS documentation to set it up.
+    # Recommended settings are h-32 to h-48.
+    # https://tailwindcss.com/docs/height
+    thumbnail_height = "h-48"
+
+    # https://tailwindcss.com/docs/width
+    thumbnail_width = "w-auto"
+
+  [params.widgets]
+    archives = true
+    categories = true
+    tags = true
+    recentposts = false
+    search = false
+
+# If you're using Yandex.Metrica, you can enable this feature.
+#[params.analytics.yandexmetrica]
+#    enabled = true
+#    tagNumber = ''
+
 [menu]
 
   [[menu.main]]
