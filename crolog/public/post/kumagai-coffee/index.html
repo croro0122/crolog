@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 
-<title>crolog | Emoji Support</title>
+<title>crolog | 熊谷珈琲</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
     <meta name="description" content="crolog">
     
-    <meta name="description" content="Guide to emoji usage in Hugo">
+    <meta name="description" content="熊谷珈琲 氷川参道 大宮 埼玉">
     
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
@@ -15,7 +15,7 @@
     <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5" />
     <link rel="shortcut icon" href="/favicon/favicon.ico" />
     <meta name="theme-color" content="#ffffff">
-    <meta property="og:title" content="crolog | Emoji Support" />
+    <meta property="og:title" content="crolog | 熊谷珈琲" />
     
     
         
@@ -28,27 +28,29 @@
 
 
 
-<meta name="description" content="Guide to emoji usage in Hugo">
+<meta name="description" content="熊谷珈琲 氷川参道 大宮 埼玉">
 <meta property="og:site_name" content="crolog">
-<meta property="og:description" content="Guide to emoji usage in Hugo">
-<meta property="og:url" content="https://crolog.netlify.app/post/emoji-support/">
+<meta property="og:description" content="熊谷珈琲 氷川参道 大宮 埼玉">
+<meta property="og:url" content="https://crolog.netlify.app/post/kumagai-coffee/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="">
 
-<link rel="canonical" href="https://crolog.netlify.app/post/emoji-support/">
+<link rel="canonical" href="https://crolog.netlify.app/post/kumagai-coffee/">
 
-<meta name="twitter:description" content="Guide to emoji usage in Hugo">
-<meta property="article:published_time" content="2019-03-05T00:00:00&#43;00:00">
-<meta property="article:updated_time" content="2019-03-05T00:00:00&#43;00:00">
-
-
+<meta name="twitter:description" content="熊谷珈琲 氷川参道 大宮 埼玉">
+<meta property="article:published_time" content="2021-03-11T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2021-03-11T00:00:00&#43;00:00">
 
 
 
-<meta property="og:image" content="https://crolog.netlify.app">
-<meta property="og:image:url" content="https://crolog.netlify.app">
+
+
+    
+<meta property="og:image" content="https://crolog.netlify.app/img/kumagai-coffee/banana_kumapetino.JPG">
+<meta property="og:image:url" content="https://crolog.netlify.app/img/kumagai-coffee/banana_kumapetino.JPG">
+    
 
     
 </head>
@@ -121,61 +123,58 @@
             <div class="lg:mx-5">
 <div class="grid grid-cols-3 gap-4">
     <div class="bg-white col-span-3 lg:col-span-2 p-5">
-        <h1 class="title text-4xl">Emoji Support</h1>
+        <h1 class="title text-4xl">熊谷珈琲</h1>
         <aside id="meta">
             <div>
                 <section>
-                    <h4 id="date"><span class="icon-access_time mr-1"></span>2019/03/05 </h4>
+                    <h4 id="date"><span class="icon-access_time mr-1"></span>2021/03/11 </h4>
                 </section>
                 
                 <div id="tags">
                     <span class="icon-local_offer mr-1"></span>
                     
-                    <a href="https://crolog.netlify.app/%20tags/emoji">emoji</a> |
+                    <a href="https://crolog.netlify.app/%20tags/%E5%9F%BC%E7%8E%89">埼玉</a> |
+                    
+                    <a href="https://crolog.netlify.app/%20tags/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82">さいたま市</a> |
+                    
+                    <a href="https://crolog.netlify.app/%20tags/%E6%B0%B7%E5%B7%9D%E5%8F%82%E9%81%93">氷川参道</a> |
+                    
+                    <a href="https://crolog.netlify.app/%20tags/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86">コーヒー豆</a> |
+                    
+                    <a href="https://crolog.netlify.app/%20tags/%E5%A4%A7%E5%AE%AE">大宮</a> |
                     
                 </div>
                 
             </div>
         </aside>
         
-        <div class="content"><p>Emoji can be enabled in a Hugo project in a number of ways.</p>
-<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
-<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
-<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
-<hr>
-<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}</code></pre></div>
+        <img class="my-4" src="https://crolog.netlify.app/img/kumagai-coffee/banana_kumapetino.JPG">
+        
+        <div class="content"><p><figure>
+    <img src="/img/kumagai-coffee/coffee_kumapetino.JPG"/> 
+</figure>
 
-<style>
-.emojify {
-	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-  .nowrap {
-    display: block;
-    margin: 25px 0;
-  }
-}
-</style></div>
+*クマモカクマペチーノ</p>
+<p>氷川参道沿いにあるカフェです。<br>
+こちらでは<em>クマペチーノ</em>をよくいただきました。</p>
+<p>コーヒー豆あります。<br>
+コーヒーようかんもあります。<br>
+オリジナルのシールもくれます。ちょっと嬉しい。</p>
+<p><a href="http://kumagaicoffee.com/">http://kumagaicoffee.com/</a></p>
+</div>
         <hr class="py-2">
         <aside id="meta">
             
             <div class="grid grid-cols-2">
                 <div class="col-span-1">
                     
+                    <a class="previous lg:text-2xl" href="https://crolog.netlify.app/post/minami-kaikisen/">
+                        <div class="bg-gray-200 h-auto m-3 text-center py-3 lg:py-1">
+                            &lt; 南回帰線
+                        </div>
+                    </a>
+                    
                 </div>
-                
-                <a class="next lg:text-2xl" href="https://crolog.netlify.app/post/math-typesetting/">
-                    <div class="col-span-1 bg-gray-200 h-auto m-3 text-center py-3 lg:py-1">
-                        Math Typesetting &gt;
-                    </div>
-                </a>
                 
             </div>
         </aside>
