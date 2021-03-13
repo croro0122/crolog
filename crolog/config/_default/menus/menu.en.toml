@@ -15,12 +15,12 @@
   weight = -108
 [[main]]
   parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  name = "Instagram"
+  url = "https://www.instagram.com/lusirful/"
 [[main]]
   parent = "Links"
   name = "Twitter"
-  url = "https://twitter.com/"
+  url = "https://twitter.com/lusirful"
 
 [[main]]
   name = "About"
