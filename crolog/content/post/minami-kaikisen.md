@@ -1,7 +1,6 @@
 ---
 author: "croro"
 title: "南回帰線"
-image: "img/minami-kaikisen/outside.JPG"
 draft: false
 date: 2021-03-10
 description: "南回帰線 大宮 コーヒー豆"
