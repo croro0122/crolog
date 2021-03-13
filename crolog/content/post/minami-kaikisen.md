@@ -5,11 +5,13 @@ image: "img/minami-kaikisen/outside.JPG"
 draft: false
 date: 2021-03-10
 description: "南回帰線 大宮 コーヒー豆"
-tags: ["大宮", "埼玉", "コーヒー豆"]
+featured: true
+tags: ["大宮", "埼玉", "コーヒー豆", "さいたま市"]
 archives: ["2021/03"]
+thumbnail: "images/minami-kaikisen/outside.JPG"
 ---
 
-{{< figure src="/img/minami-kaikisen/outside.JPG" title="南回帰線" >}}
+{{< figure src="/images/minami-kaikisen/outside.JPG" title="南回帰線" width="50%" >}}
 南回帰線だよ。  
 *サンセットカフェ* という豆がお気に入り。
 

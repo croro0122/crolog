@@ -1,3 +1,6 @@
 [submodule "crolog/themes/Blonde"]
 	path = crolog/themes/Blonde
 	url = https://github.com/opera7133/Blonde.git
+[submodule "crolog/themes/hugo-clarity"]
+	path = crolog/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
