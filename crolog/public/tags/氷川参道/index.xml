@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>氷川参道 on crolog</title>
+    <title>氷川参道 on cafelog by croro</title>
     <link>https://crolog.netlify.app/tags/%E6%B0%B7%E5%B7%9D%E5%8F%82%E9%81%93/</link>
-    <description>Recent content in 氷川参道 on crolog</description>
+    <description>Recent content in 氷川参道 on cafelog by croro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://crolog.netlify.app/tags/%E6%B0%B7%E5%B7%9D%E5%8F%82%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>熊谷珈琲</title>
@@ -13,13 +13,22 @@
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://crolog.netlify.app/post/kumagai-coffee/</guid>
-      <description>*クマモカクマペチーノ
-氷川参道沿いにあるカフェです。
-こちらではクマペチーノをよくいただきました。
-コーヒー豆あります。
-コーヒーようかんもあります。
-オリジナルのシールもくれます。ちょっと嬉しい。
-http://kumagaicoffee.com/</description>
+      <description>
+        
+          &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://crolog.netlify.app/img/kumagai-coffee/coffee_kumapetino.JPG&#34; width=&#34;50%&#34;/&gt; 
+&lt;/figure&gt;
+
+*クマモカクマペチーノ&lt;/p&gt;
+&lt;p&gt;氷川参道沿いにあるカフェです。&lt;br&gt;
+こちらでは&lt;em&gt;クマペチーノ&lt;/em&gt;をよくいただきました。&lt;/p&gt;
+&lt;p&gt;コーヒー豆あります。&lt;br&gt;
+コーヒーようかんもあります。&lt;br&gt;
+オリジナルのシールもくれます。ちょっと嬉しい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://kumagaicoffee.com/&#34;&gt;http://kumagaicoffee.com/&lt;/a&gt;&lt;/p&gt;
+
+        
+      </description>
     </item>
     
   </channel>

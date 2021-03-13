@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>カレー on crolog</title>
+    <title>カレー on cafelog by croro</title>
     <link>https://crolog.netlify.app/tags/%E3%82%AB%E3%83%AC%E3%83%BC/</link>
-    <description>Recent content in カレー on crolog</description>
+    <description>Recent content in カレー on cafelog by croro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://crolog.netlify.app/tags/%E3%82%AB%E3%83%AC%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doux Murmures 樹の音</title>
@@ -13,7 +13,16 @@
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://crolog.netlify.app/post/doux-murmures/</guid>
-      <description>樹の音の南インド風チキンカレーだよ</description>
+      <description>
+        
+          &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://crolog.netlify.app/images/doux-murmures/curry.JPG&#34; width=&#34;50%&#34;/&gt; 
+&lt;/figure&gt;
+
+樹の音の南インド風チキンカレーだよ&lt;/p&gt;
+&lt;div&gt;&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3231.5897296698918!2d139.6365912511279!3d35.90806262500767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018c1ef908a73ff%3A0x71a40fc6b74f94a0!2zRG91eCBNdXJtdXJlc--8iOODieOCpeODn-ODpeODn-ODpeODvOODq--8ieaoueOBrumfsw!5e0!3m2!1sja!2sjp!4v1615300739017!5m2!1sja!2sjp&#34; width=&#34;400&#34; height=&#34;300&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+        
+      </description>
     </item>
     
   </channel>

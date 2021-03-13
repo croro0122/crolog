@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>埼玉 on crolog</title>
+    <title>埼玉 on cafelog by croro</title>
     <link>https://crolog.netlify.app/tags/%E5%9F%BC%E7%8E%89/</link>
-    <description>Recent content in 埼玉 on crolog</description>
+    <description>Recent content in 埼玉 on cafelog by croro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://crolog.netlify.app/tags/%E5%9F%BC%E7%8E%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>熊谷珈琲</title>
@@ -13,13 +13,22 @@
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://crolog.netlify.app/post/kumagai-coffee/</guid>
-      <description>*クマモカクマペチーノ
-氷川参道沿いにあるカフェです。
-こちらではクマペチーノをよくいただきました。
-コーヒー豆あります。
-コーヒーようかんもあります。
-オリジナルのシールもくれます。ちょっと嬉しい。
-http://kumagaicoffee.com/</description>
+      <description>
+        
+          &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://crolog.netlify.app/img/kumagai-coffee/coffee_kumapetino.JPG&#34; width=&#34;50%&#34;/&gt; 
+&lt;/figure&gt;
+
+*クマモカクマペチーノ&lt;/p&gt;
+&lt;p&gt;氷川参道沿いにあるカフェです。&lt;br&gt;
+こちらでは&lt;em&gt;クマペチーノ&lt;/em&gt;をよくいただきました。&lt;/p&gt;
+&lt;p&gt;コーヒー豆あります。&lt;br&gt;
+コーヒーようかんもあります。&lt;br&gt;
+オリジナルのシールもくれます。ちょっと嬉しい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://kumagaicoffee.com/&#34;&gt;http://kumagaicoffee.com/&lt;/a&gt;&lt;/p&gt;
+
+        
+      </description>
     </item>
     
     <item>
@@ -28,9 +37,22 @@ http://kumagaicoffee.com/</description>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://crolog.netlify.app/post/minami-kaikisen/</guid>
-      <description>  南回帰線   南回帰線だよ。
-サンセットカフェ という豆がお気に入り。
-   </description>
+      <description>
+        
+          &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://crolog.netlify.app/images/minami-kaikisen/outside.JPG&#34; width=&#34;50%&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;南回帰線&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+南回帰線だよ。&lt;br&gt;
+&lt;em&gt;サンセットカフェ&lt;/em&gt; という豆がお気に入り。&lt;/p&gt;
+&lt;div&gt;
+    &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3231.882214524296!2d139.62904895112786!3d35.90090032540258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018c1131541d18d%3A0x380fcb42ef0f6111!2z5Y2X5Zue5biw57ea!5e0!3m2!1sja!2sjp!4v1615384512860!5m2!1sja!2sjp&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+        
+      </description>
     </item>
     
   </channel>
