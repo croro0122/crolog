@@ -10,7 +10,7 @@ archives: ["2021/03"]
 thumbnail: "images/kumagai-coffee/banana_kumapetino.JPG"
 ---
 
-{{< figure src="/img/kumagai-coffee/coffee_kumapetino.JPG" width="50%" >}}
+{{< figure src="/images/kumagai-coffee/coffee_kumapetino.JPG" width="50%" >}}
 *クマモカクマペチーノ  
   
   
