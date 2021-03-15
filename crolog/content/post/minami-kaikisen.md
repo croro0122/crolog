@@ -5,7 +5,7 @@ draft: false
 date: 2021-03-10
 description: "南回帰線 大宮 コーヒー豆"
 featured: true
-tags: ["大宮", "埼玉", "コーヒー豆", "さいたま市"]
+tags: ["大宮", "埼玉", "コーヒー豆", "さいたま市", "氷川参道"]
 archives: ["2021/03"]
 thumbnail: "images/minami-kaikisen/outside.JPG"
 ---
