@@ -12,7 +12,7 @@ thumbnail: "/images/bagel-lapin/bagel.JPG"
 {{< figure src="/images/bagel-lapin/bagel.JPG" width="50%" >}} 
 
 氷川参道沿いにあるベーグル屋さん.  
-場所は[熊谷珈琲][kuma]のすぐそば.  
+場所は _[熊谷珈琲][kuma]_ のすぐそば.  
   
 お店のすぐ外にイートインできるスペースあり.  
 
