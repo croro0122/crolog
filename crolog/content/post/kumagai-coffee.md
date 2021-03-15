@@ -5,7 +5,7 @@ draft: false
 date: "2021-03-11"
 description: "熊谷珈琲 氷川参道 大宮 埼玉"
 featured: true
-tags: ["埼玉", "さいたま市", "氷川参道", "コーヒー豆","大宮"]
+tags: ["埼玉", "さいたま市", "氷川参道", "コーヒー豆","大宮", "羊羹"]
 archives: ["2021/03"]
 thumbnail: "images/kumagai-coffee/banana_kumapetino.JPG"
 ---

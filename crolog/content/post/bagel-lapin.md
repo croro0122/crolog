@@ -3,7 +3,7 @@ author: "croro"
 title: "bagel lapin -ベーグル ラパン"
 draft: false
 date: 2021-03-15T22:06:24+09:00
-description: ""
+description: "bagel laping ベーグル ラパン さいたま 埼玉 大宮 ベーグルカフェ 氷川参道"
 featured: true
 tags: ["埼玉", "大宮", "さいたま市", "氷川参道", "ベーグル"]
 archives: ["2021/03"]
