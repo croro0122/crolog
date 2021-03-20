@@ -19,10 +19,10 @@ thumbnail: "/images/e-one/rurohan-plate.JPG"
 ビールが美味しい.  
 
 {{< figure src="/images/e-one/rurohan.JPG" width="50%" >}}
-*魯肉飯ルーローハン  
+*魯肉飯(ルーローハン)  
 
 {{< figure src="/images/e-one/mensen.JPG" width="50%" >}}
-*麺線
+*麺線(メンセン)
 
 {{< figure src="/images/e-one/dessert.JPG" width="50%" >}}
 
