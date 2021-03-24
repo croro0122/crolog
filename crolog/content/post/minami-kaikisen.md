@@ -3,7 +3,7 @@ author: "croro"
 title: "南回帰線"
 draft: false
 date: 2021-03-10
-description: "南回帰線 大宮 コーヒー豆"
+description: "南回帰線 大宮 コーヒー豆 埼玉"
 featured: true
 tags: ["大宮", "埼玉", "コーヒー豆", "さいたま市", "氷川参道"]
 archives: ["2021/03"]

@@ -3,7 +3,7 @@ author: "croro"
 title: "こむぎ BAGEL&COFFEE"
 draft: false
 date: 2021-03-21T22:22:47+09:00
-description: ""
+description: "埼玉 さいたま 大宮 ベーグル 北区 南回帰線"
 featured: true
 tags: ["埼玉","大宮", "さいたま市", "ベーグル", "北区"]
 archives: ["2021/03"]

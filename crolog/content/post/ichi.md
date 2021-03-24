@@ -2,7 +2,7 @@
 title: "ichi"
 date: 2021-03-14T22:17:45+09:00
 draft: false
-description: "ichi さいたま市 ベーグル"
+description: "ichi さいたま市 ベーグル 埼玉 プンタルト コーヒー"
 featured: true
 tags: ["埼玉","さいたま市","ベーグル", "コーヒー", "コーヒー豆","パスタ", "見沼区"]
 archives: ["2021/03"]
