@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://crolog.netlify.app/</loc>
-    <lastmod>2021-03-24T22:46:09+09:00</lastmod>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -15,14 +15,11 @@
                 href="https://crolog.netlify.app/"
                 />
   </url><url>
-    <loc>https://crolog.netlify.app/post/alley-coffee/</loc>
-    <lastmod>2021-03-24T22:46:09+09:00</lastmod>
-  </url><url>
     <loc>https://crolog.netlify.app/post/</loc>
-    <lastmod>2021-03-24T22:46:09+09:00</lastmod>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/tags/</loc>
-    <lastmod>2021-03-24T22:46:09+09:00</lastmod>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -35,18 +32,33 @@
                 />
   </url><url>
     <loc>https://crolog.netlify.app/tags/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82/</loc>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/tags/%E5%9F%BC%E7%8E%89/</loc>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/tags/%E5%A4%A7%E5%AE%AE/</loc>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/tags/%E8%A6%8B%E6%B2%BC%E5%8C%BA/</loc>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/post/majo-no-koppennpa/</loc>
+    <lastmod>2021-04-06T23:55:52+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/tags/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86/</loc>
+    <lastmod>2021-04-01T23:44:10+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/post/mamezukan/</loc>
+    <lastmod>2021-04-01T23:44:10+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/post/banana-cafe/</loc>
+    <lastmod>2021-04-01T23:37:01+09:00</lastmod>
+  </url><url>
+    <loc>https://crolog.netlify.app/post/alley-coffee/</loc>
     <lastmod>2021-03-24T22:46:09+09:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/tags/%E3%82%AB%E3%83%AC%E3%83%BC/</loc>
-    <lastmod>2021-03-24T22:46:09+09:00</lastmod>
-  </url><url>
-    <loc>https://crolog.netlify.app/tags/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86/</loc>
-    <lastmod>2021-03-24T22:46:09+09:00</lastmod>
-  </url><url>
-    <loc>https://crolog.netlify.app/tags/%E5%9F%BC%E7%8E%89/</loc>
-    <lastmod>2021-03-24T22:46:09+09:00</lastmod>
-  </url><url>
-    <loc>https://crolog.netlify.app/tags/%E5%A4%A7%E5%AE%AE/</loc>
     <lastmod>2021-03-24T22:46:09+09:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/post/komugi/</loc>
@@ -86,9 +98,6 @@
     <lastmod>2021-03-14T22:17:45+09:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/tags/%E3%83%91%E3%82%B9%E3%82%BF/</loc>
-    <lastmod>2021-03-14T22:17:45+09:00</lastmod>
-  </url><url>
-    <loc>https://crolog.netlify.app/tags/%E8%A6%8B%E6%B2%BC%E5%8C%BA/</loc>
     <lastmod>2021-03-14T22:17:45+09:00</lastmod>
   </url><url>
     <loc>https://crolog.netlify.app/post/kumagai-coffee/</loc>
